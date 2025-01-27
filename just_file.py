@@ -1,1 +1,3 @@
-print('redrum")
+print("redrum")
+
+print("The new changes")
